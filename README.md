@@ -13,6 +13,6 @@ Studica provided a link to a Sharepoint folder for all the software needed to be
 [Link](https://studicalimited.sharepoint.com/sites/SR-Resources/Shared%20Documents/Forms/AllItems.aspx?viewid=594b16af%2De465%2D418c%2D8993%2D7bd203109209)
 
 #### Source 2: Team 93 Members Only
-In the team Google Drive, under ```Engineering >Software > Studica Robot Files``` there is the download as a backup.
+In the team Google Drive, under ```Engineering > Software > Studica Robot Files``` there is the download as a backup.
 
 Once you have downloaded the files, extract the zip file to your desktop or somewhere you can remember. Run the WPILib installer for your OS and version (Most likely Windows 64 bit, but you can easily check in Settings > System > About). You will have to select whether you want to install for just your user or all users, but after that you should be presented with a screen that asks you to select how you want to install VS Code. Select Existing Download and use the offline VS Code installer provided in the download. It should install and you will now have 2020 WPILib and VS Code installed.
